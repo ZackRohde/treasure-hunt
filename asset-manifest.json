@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pig-latin-translator/static/css/main.8a132266.css",
+    "main.js": "/pig-latin-translator/static/js/main.3c2b18b9.js",
+    "static/js/787.1722ef42.chunk.js": "/pig-latin-translator/static/js/787.1722ef42.chunk.js",
+    "index.html": "/pig-latin-translator/index.html",
+    "main.8a132266.css.map": "/pig-latin-translator/static/css/main.8a132266.css.map",
+    "main.3c2b18b9.js.map": "/pig-latin-translator/static/js/main.3c2b18b9.js.map",
+    "787.1722ef42.chunk.js.map": "/pig-latin-translator/static/js/787.1722ef42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a132266.css",
+    "static/js/main.3c2b18b9.js"
+  ]
+}
