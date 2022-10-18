@@ -1,8 +1,6 @@
-import './App.css';
-
 import React, { useState } from "react"
 import './App.css'
-import Square from './src/components/square.js'
+import Square from './components/square.js'
 
 const App = () => {
   const [board, setBoard] = useState([
