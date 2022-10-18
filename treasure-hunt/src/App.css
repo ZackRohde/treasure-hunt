@@ -8,15 +8,14 @@ h1 {
   border: 1px solid black;
   font-size: 5rem;
   text-align: center;
-  justify-content: center;
 }
 
 .board-game {
   display: flex;
   flex-wrap: wrap;
   width: 350px;
-  margin: 0 auto;
   text-align: center;
+  margin-left: 35.5rem;
 }
 
 body {
