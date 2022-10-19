@@ -15,7 +15,7 @@ h1 {
   flex-wrap: wrap;
   width: 350px;
   text-align: center;
-  margin-left: 35.5rem;
+  margin: auto;
 }
 
 body {
@@ -24,4 +24,10 @@ body {
 
 .resetgame {
   text-align: center;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: lightgreen;
+  }
 }
